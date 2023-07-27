@@ -1,0 +1,3 @@
+superuser username=sethi
+email= sethi@gmail.com
+password= sugandha
